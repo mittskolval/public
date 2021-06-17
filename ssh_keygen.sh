@@ -1,7 +1,7 @@
 #!/bin/bash
 
 main() {
-  local gh_email ssh_key_path answer
+  local gh_email ssh_key_path
 
   ssh_key_path="$HOME/.ssh/id_rsa"
 
