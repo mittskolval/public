@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# This script is meant to run on Ubuntu 20.04 and Linux Mint 20.1
+
 main() {
   sudo apt-get update \
     && sudo apt-get install -y \
